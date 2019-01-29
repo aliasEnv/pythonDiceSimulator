@@ -1,0 +1,4 @@
+This is a very simple dice simulator with a radint between 0-5, which is the same as a typical, physical di.
+
+Simply run it by using the following command:
+python diceSimulator.py
